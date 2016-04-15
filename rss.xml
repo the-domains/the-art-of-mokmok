@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Art of MokMok]]></title>
         <description><![CDATA[The Art of MokMok]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-art-of-mokmok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 10:03:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 10:03:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-art-of-mokmok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ce0e0f-003e-48a6-9a58-70849c72622f.jpg">]]></description>
+            <link>https://thegrid.ai/the-art-of-mokmok/06314071-8d37-4706-9b09-010fff2ad026/index.html</link>
+            <guid isPermaLink="false">06314071-8d37-4706-9b09-010fff2ad026</guid>
+            <pubDate>Fri, 15 Apr 2016 10:02:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b30a2c09-b452-42d8-b569-29698a436e4f.jpg">]]></description>
-            <link>undefined11f66041-cfa3-406c-aec1-3ced2f79b64b/index.html</link>
+            <link>https://thegrid.ai/the-art-of-mokmok/11f66041-cfa3-406c-aec1-3ced2f79b64b/index.html</link>
             <guid isPermaLink="false">11f66041-cfa3-406c-aec1-3ced2f79b64b</guid>
             <pubDate>Fri, 15 Apr 2016 10:02:59 GMT</pubDate>
         </item>
