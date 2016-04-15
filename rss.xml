@@ -4,8 +4,15 @@
         <description><![CDATA[The Art of MokMok]]></description>
         <link>https://thegrid.ai/the-art-of-mokmok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 10:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 10:40:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-art-of-mokmok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/777c1b58-7290-4f76-8165-2b74af6b33e9.jpg">]]></description>
+            <link>https://thegrid.ai/the-art-of-mokmok/b354dc5b-7f30-4f82-bfed-1df29416c163/index.html</link>
+            <guid isPermaLink="false">b354dc5b-7f30-4f82-bfed-1df29416c163</guid>
+            <pubDate>Fri, 15 Apr 2016 10:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cd4f084-d674-40d0-bfeb-1ce4120bf367.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4021c773-7cf9-4db3-b890-1a983130315c.jpg">]]></description>
             <link>https://thegrid.ai/the-art-of-mokmok/bcbcdbc3-3c9e-4a35-91a6-016972fd29bc/index.html</link>
             <guid isPermaLink="false">bcbcdbc3-3c9e-4a35-91a6-016972fd29bc</guid>
-            <pubDate>Fri, 15 Apr 2016 10:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e60b55c2-ca32-4597-89a5-d3665499eeff.jpg">]]></description>
-            <link>https://thegrid.ai/the-art-of-mokmok/f89c38a3-b63d-4b78-8a31-f9b480b92836/index.html</link>
-            <guid isPermaLink="false">f89c38a3-b63d-4b78-8a31-f9b480b92836</guid>
             <pubDate>Fri, 15 Apr 2016 10:02:59 GMT</pubDate>
         </item>
     </channel>
