@@ -4,8 +4,15 @@
         <description><![CDATA[The Art of MokMok]]></description>
         <link>https://thegrid.ai/the-art-of-mokmok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 10:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 14:40:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-art-of-mokmok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Art of MokMokInsight to the design process of MokMok</p>]]></description>
+            <link>https://thegrid.ai/the-art-of-mokmok/the-art-of-mokmokinsight-to-the-design-process-of-mokmok/index.html</link>
+            <guid isPermaLink="false">ef234f04-f599-4ab6-911a-68d2ef6bb700</guid>
+            <pubDate>Fri, 15 Apr 2016 14:40:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0a89022-7aeb-4251-a6f4-e424d8f5d05c.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-art-of-mokmok/869d2c4f-a128-4bec-a522-9be44280370a/index.html</link>
             <guid isPermaLink="false">869d2c4f-a128-4bec-a522-9be44280370a</guid>
             <pubDate>Fri, 15 Apr 2016 10:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aedafd99-453a-439a-b496-3bfb364d8b8f.jpg">]]></description>
-            <link>https://thegrid.ai/the-art-of-mokmok/7c6ef489-8f2c-488b-8f7f-76a6b7b92d85/index.html</link>
-            <guid isPermaLink="false">7c6ef489-8f2c-488b-8f7f-76a6b7b92d85</guid>
-            <pubDate>Fri, 15 Apr 2016 10:40:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
