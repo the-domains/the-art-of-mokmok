@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: The Art of MokMokInsight to the design process of MokMok
-datePublished: '2016-04-15T14:45:36.386Z'
-dateModified: '2016-04-15T14:45:24.676Z'
+description: 'The Art of MokMokConcept designs, Sketches, Various stages of production.'
+datePublished: '2016-04-18T11:50:57.429Z'
+dateModified: '2016-04-18T11:50:37.335Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-the-art-of-mokmokinsight-to-the-design-process-of-mokmok.md
