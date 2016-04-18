@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of MokMok]]></description>
         <link>https://thegrid.ai/the-art-of-mokmok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 18:13:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-art-of-mokmok/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Art of MokMok]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-art-of-mokmok/the-art-of-mokmokinsight-to-the-design-process-of-mokmok/index.html</link>
             <guid isPermaLink="false">ef234f04-f599-4ab6-911a-68d2ef6bb700</guid>
             <pubDate>Mon, 18 Apr 2016 12:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What if I would be the headline]]></title>
+            <description><![CDATA[<article><h1>What if I would be the headline</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/866eafef-90a1-4b3d-8dce-ec7c18d3e277.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-art-of-mokmok/1bd233c0-c407-45d9-9853-6d350c68be28/index.html</link>
+            <guid isPermaLink="false">1bd233c0-c407-45d9-9853-6d350c68be28</guid>
+            <pubDate>Mon, 18 Apr 2016 18:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,17 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Architectural Structures - Or how to find a pattern language]]></title>
-            <description><![CDATA[<article><h1>Architectural Structures - Or how to find a pattern language</h1><p>Concept sketches of MokMok's architectural structures. I used the technique of stereotyping to advance originally rather common designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a351b75310d4322abcba7dc749b55f83d523ceb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Architectural Structures - Or how to find a pattern language</h1><p>Concept sketches of MokMok's architectural structures. I used the technique of stereotyping to advance originally rather common designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4947bb759f439a8e7de6ba93903740c762787cf8.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-art-of-mokmok/1962f9e8-0011-4793-9ea2-bad5e503654e/index.html</link>
             <guid isPermaLink="false">1962f9e8-0011-4793-9ea2-bad5e503654e</guid>
             <pubDate>Mon, 18 Apr 2016 14:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm a headline]]></title>
-            <description><![CDATA[<article><h1>I'm a headline</h1><p>"I'm some kind of comment/quote"</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/866eafef-90a1-4b3d-8dce-ec7c18d3e277.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-art-of-mokmok/1bd233c0-c407-45d9-9853-6d350c68be28/index.html</link>
-            <guid isPermaLink="false">1bd233c0-c407-45d9-9853-6d350c68be28</guid>
-            <pubDate>Mon, 18 Apr 2016 14:16:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
