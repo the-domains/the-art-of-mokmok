@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'The Art of MokMokConcept designs, Sketches, Various stages of production.'
-datePublished: '2016-04-18T11:50:57.429Z'
-dateModified: '2016-04-18T11:50:37.335Z'
+description: 'Design & Production Process - Sketches, Concept Design, CGI'
+datePublished: '2016-04-18T12:04:57.347Z'
+dateModified: '2016-04-18T12:04:48.476Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-the-art-of-mokmokinsight-to-the-design-process-of-mokmok.md
@@ -22,5 +22,5 @@ url: the-art-of-mokmokinsight-to-the-design-process-of-mokmok/index.html
 _type: Article
 
 ---
-**The Art of MokMok**  
-Concept designs, Sketches, Various stages of production.
+Design & Production Process - Sketches, Concept Design, CGI
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/570aab0a-23ed-4851-aaf9-5486c938d536.jpg)
