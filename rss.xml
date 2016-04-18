@@ -4,21 +4,21 @@
         <description><![CDATA[The Art of MokMok]]></description>
         <link>https://thegrid.ai/the-art-of-mokmok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 18:40:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-art-of-mokmok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stereotyping Example]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/264df691-4f5b-4231-8463-29d491cccd50.jpg">]]></description>
+            <link>https://thegrid.ai/the-art-of-mokmok/7c6ef489-8f2c-488b-8f7f-76a6b7b92d85/index.html</link>
+            <guid isPermaLink="false">7c6ef489-8f2c-488b-8f7f-76a6b7b92d85</guid>
+            <pubDate>Mon, 18 Apr 2016 18:40:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Architectural Structures - Or how to find a pattern language]]></title>
             <description><![CDATA[<article><h1>Architectural Structures - Or how to find a pattern language</h1><p>Concept sketches of MokMok's architectural structures. I used the technique of stereotyping to advance originally rather common designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4947bb759f439a8e7de6ba93903740c762787cf8.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-art-of-mokmok/1962f9e8-0011-4793-9ea2-bad5e503654e/index.html</link>
             <guid isPermaLink="false">1962f9e8-0011-4793-9ea2-bad5e503654e</guid>
             <pubDate>Mon, 18 Apr 2016 18:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63e72e79-bd0d-41ff-be33-337a36d7636c.jpg">]]></description>
-            <link>https://thegrid.ai/the-art-of-mokmok/7c6ef489-8f2c-488b-8f7f-76a6b7b92d85/index.html</link>
-            <guid isPermaLink="false">7c6ef489-8f2c-488b-8f7f-76a6b7b92d85</guid>
-            <pubDate>Mon, 18 Apr 2016 17:56:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
