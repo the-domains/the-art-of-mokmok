@@ -4,15 +4,8 @@
         <description><![CDATA[The Art of MokMok]]></description>
         <link>https://thegrid.ai/the-art-of-mokmok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 11:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 11:50:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-art-of-mokmok/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[I'm a Nav]]></title>
-            <description><![CDATA[<h1>I'm a Nav</h1>]]></description>
-            <link>https://thegrid.ai/the-art-of-mokmok/im-a-nav/index.html</link>
-            <guid isPermaLink="false">c2024966-0be5-456b-a304-ac591a5933e7</guid>
-            <pubDate>Mon, 18 Apr 2016 11:30:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Architectural Structures - Or how to find a pattern language]]></title>
             <description><![CDATA[<article><h1>Architectural Structures - Or how to find a pattern language</h1><p>Concept sketches of MokMok's architectural structures. I used the technique of stereotyping to advance originally rather simple designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a351b75310d4322abcba7dc749b55f83d523ceb.jpg"></article>]]></description>
